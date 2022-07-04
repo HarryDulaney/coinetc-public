@@ -6,7 +6,7 @@
 ____
 ##### Home Page
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/img/main/coinetc-ss-1.png"  height="320px" hspace="10"/>
+  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-1.png"  height="320px" hspace="10"/>
  </div>
  
  ##### Quick Search
