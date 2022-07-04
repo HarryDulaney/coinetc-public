@@ -6,64 +6,64 @@
 ____
 ##### Home Page
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-1.png"  height="320px" hspace="10"/>
+  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/img/main/coinetc-ss-1.png"  height="320px" hspace="10"/>
  </div>
  
  ##### Quick Search
 
  <div align="center">
-  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-2.png"  height="320px" hspace="10"/>
+  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-2.png"  height="320px" hspace="10"/>
  </div>
 
  
 ##### Market Asset View
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-3.png"  height="230px" hspace="5"/>
- <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-4.png"  height="230px" hspace="5"/>
+  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-3.png"  height="230px" hspace="5"/>
+ <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-4.png"  height="230px" hspace="5"/>
 </div>
 
 ##### Track an Asset (Use in Portfolio)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-5.png"  height="230px" hspace="5"/>
- <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-6.png"  height="230px" hspace="5"/>
+  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-5.png"  height="230px" hspace="5"/>
+ <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-6.png"  height="230px" hspace="5"/>
  </div>
  
 ##### (Mobile) Friendly navigation
 
  <div align="center">
-  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-7.png"  height="320px" hspace="10"/>
+  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-7.png"  height="320px" hspace="10"/>
 </div>
 
 
 ##### News from multiple sources
 
  <div align="center">
-<img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-8.png"  height="320px" hspace="10"/>
+<img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-8.png"  height="320px" hspace="10"/>
 </div>
 
 ##### Read Articles
 
  <div align="center">
-  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-12.png"  height="230px" hspace="5"/>
- <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-13.png"  height="230px" hspace="5"/>
+  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-12.png"  height="230px" hspace="5"/>
+ <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-13.png"  height="230px" hspace="5"/>
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-14.png"  height="230px" hspace="5"/>
- <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-15.png"  height="230px" hspace="5"/>
+  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-14.png"  height="230px" hspace="5"/>
+ <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-15.png"  height="230px" hspace="5"/>
 </div>
 
 ##### And More
 ____
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-16.png"  height="230px" hspace="5"/>
- <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-17.png"  height="230px" hspace="5"/>
+  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-16.png"  height="230px" hspace="5"/>
+ <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-17.png"  height="230px" hspace="5"/>
  </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-18.png"  height="230px" hspace="5"/>
- <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/coinetc-ss-19.png"  height="230px" hspace="5"/>
+  <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-18.png"  height="230px" hspace="5"/>
+ <img src="https://raw.githubusercontent.com/HarryDulaney/coinetc-public/main/img/coinetc-ss-19.png"  height="230px" hspace="5"/>
 </div>
 
 
